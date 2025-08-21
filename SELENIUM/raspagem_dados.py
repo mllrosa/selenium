@@ -14,3 +14,5 @@ for i in range(len(frases)):
     print(frases[i].text)
     print(f"- {autores[i].text}")
     print()
+
+# vai ao site e pega fases de autores e seus nomes
